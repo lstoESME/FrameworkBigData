@@ -2,7 +2,7 @@ package com.fakir.samples
 
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.sql.SparkSession
-
+import com.fakir.samples.config.ConfigParser
 
 
 object SampleProgram {
